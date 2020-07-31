@@ -1,7 +1,7 @@
 - name: NETworkManager
   gh_user: BornToBeRoot
   repo: NETworkManager
-  img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager_Preview.gif
+  img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager.svg
   desc: A powerful tool for managing networks and troubleshoot network problems!
  
 - name: Simple Linux server monitoring
