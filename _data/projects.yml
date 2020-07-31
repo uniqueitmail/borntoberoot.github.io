@@ -3,15 +3,57 @@
   repo: NETworkManager
   img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager_Preview.gif
   desc: A powerful tool for managing networks and troubleshoot network problems!
+ 
+- name: Simple Linux server monitoring
+  gh_user: BornToBeRoot
+  repo: linux_server_monitoring
+  img: 
+  desc: Simple Linux server monitoring with bash scripts, crontab and status mails :)
 
-- name: Nagios/Centron check for Nextcloud
+- name: Nagios/Centron check | Nextcloud serverinfo
   gh_user: BornToBeRoot
   repo: check_nextcloud
-  img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager_Preview.gif
+  img: 
   desc: Nagios/Centreon plugin for nextcloud serverinfo API (https://github.com/nextcloud/serverinfo)
 
-- name: PowerShell - IPv4 Network Scanner
+- name: Nagios/Centron check | RDS device CALs
+  gh_user: BornToBeRoot
+  repo: check_rdsdevicecals
+  img: 
+  desc: Nagios/Centreon plugin to check your available RDS device CALs
+
+- name: PowerShell script | IPv4 network scanner
   gh_user: BornToBeRoot
   repo: PowerShell_IPv4NetworkScanner
-  img: https://raw.githubusercontent.com/BornToBeRoot/PowerShell_IPv4NetworkScanner/master/Documentation/Images/IPv4NetworkScan.png
-  desc: Powerful asynchronus IPv4 Network Scanner for PowerShell
+  img: 
+  desc: Powerful asynchronus IPv4 network scanner for PowerShell
+
+- name: PowerShell script | IPv4 port scanner
+  gh_user: BornToBeRoot
+  repo: PowerShell_IPv4PortScanner
+  img: 
+  desc: Powerful asynchronus IPv4 port scanner for PowerShell
+
+- name: PowerShell | Functions, scripts, snippets and templates 
+  gh_user: BornToBeRoot
+  repo: PowerShell
+  img: 
+  desc: Collection of useful PowerShell functions, scripts, snippets and templates
+
+- name: [ARCHIVED] PowerShell module | BrocadeICX
+  gh_user: BornToBeRoot
+  repo: PowerShell_BrocadeICX
+  img: 
+  desc: Administrate Brocade ICX Switches over SSH with PowerShell
+
+- name: [ARCHIVED] PowerShell module | ModernConsole
+  gh_user: BornToBeRoot
+  repo: PowerShell_ModernConsole
+  img: 
+  desc: Module to improve your user experience with PowerShell
+
+- name: [ARCHIVED] PowerShell script | SyncFolder
+  gh_user: BornToBeRoot
+  repo: PowerShell_SyncFolder
+  img: 
+  desc: Synchronize a folder (with subfolder/files) in one direction - optional over a PSSession
