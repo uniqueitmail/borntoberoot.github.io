@@ -40,19 +40,19 @@
   img: 
   desc: Collection of useful PowerShell functions, scripts, snippets and templates
 
-- name: [ARCHIVED] PowerShell module | BrocadeICX
+- name: --ARCHIVED-- PowerShell module | BrocadeICX
   gh_user: BornToBeRoot
   repo: PowerShell_BrocadeICX
   img: 
   desc: Administrate Brocade ICX Switches over SSH with PowerShell
 
-- name: [ARCHIVED] PowerShell module | ModernConsole
+- name: --ARCHIVED-- PowerShell module | ModernConsole
   gh_user: BornToBeRoot
   repo: PowerShell_ModernConsole
   img: 
   desc: Module to improve your user experience with PowerShell
 
-- name: [ARCHIVED] PowerShell script | SyncFolder
+- name: --ARCHIVED-- PowerShell script | SyncFolder
   gh_user: BornToBeRoot
   repo: PowerShell_SyncFolder
   img: 
