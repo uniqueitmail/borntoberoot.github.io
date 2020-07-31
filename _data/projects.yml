@@ -3,3 +3,15 @@
   repo: NETworkManager
   img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager_Preview.gif
   desc: A powerful tool for managing networks and troubleshoot network problems!
+
+- name: Nagios/Centron check for Nextcloud
+  gh_user: BornToBeRoot
+  repo: check_nextcloud
+  img: https://raw.githubusercontent.com/BornToBeRoot/NETworkManager/gh-pages/NETworkManager_Preview.gif
+  desc: Nagios/Centreon plugin for nextcloud serverinfo API (https://github.com/nextcloud/serverinfo)
+
+- name: PowerShell - IPv4 Network Scanner
+  gh_user: BornToBeRoot
+  repo: PowerShell_IPv4NetworkScanner
+  img: https://raw.githubusercontent.com/BornToBeRoot/PowerShell_IPv4NetworkScanner/master/Documentation/Images/IPv4NetworkScan.png
+  desc: Powerful asynchronus IPv4 Network Scanner for PowerShell
