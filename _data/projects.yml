@@ -10,13 +10,13 @@
   img: 
   desc: Simple Linux server monitoring with bash scripts, crontab and status mails :)
 
-- name: Nagios/Centron check | Nextcloud serverinfo
+- name: Nagios/Centreon check | Nextcloud serverinfo
   gh_user: BornToBeRoot
   repo: check_nextcloud
   img: 
   desc: Nagios/Centreon plugin for nextcloud serverinfo API (https://github.com/nextcloud/serverinfo)
 
-- name: Nagios/Centron check | RDS device CALs
+- name: Nagios/Centreon check | RDS device CALs
   gh_user: BornToBeRoot
   repo: check_rdsdevicecals
   img: 
